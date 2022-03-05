@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="c826cf7d-6f45-473b-b3b4-311b9ed8f6ed" />
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="c826cf7d-6f45-473b-b3b4-311b9ed8f6ed">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="/mnt/p/Programs/apps/Goland/ch-0/213.6777.51/jbr/bin&#10;/mongo-sandbox" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/coder/go" />
+            <option name="goRoot" value="/home/coder/bin/go1.17.8/bin/go" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
